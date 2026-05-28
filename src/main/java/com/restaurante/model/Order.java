@@ -30,7 +30,7 @@ public class Order {
         return id;
     }
 
-    public String getClientName() {
+    public String getCustomerName() {
         return clientName;
     }
 

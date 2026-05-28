@@ -3,9 +3,9 @@ package com.restaurante.model;
 public enum OrderStatus {
     RECEIVED("Recebido"),
     PREPARING("Em Preparo"),
-    OUT_FOR_DELEVIRY("Saiu para Entrega"),
+    OUT_FOR_DELIVERY("Saiu para Entrega"),
     DELIVERED("Entregue"),
-    CANCELED("Cancelado");
+    CANCELLED("Cancelado");
 
     public final String description;
 
