@@ -2,12 +2,6 @@
 
 **Aplicação de Padrões de Projeto (Design Patterns) em Java**
 
-- **Autor:** _________________________
-- **Disciplina:** _________________________
-- **Data:** ____ / ____ / __________
-
----
-
 ## 1. Tema Escolhido
 
 O projeto consiste em um **sistema de pedidos para um restaurante com serviço de delivery**, desenvolvido em Java e executado em modo console. A aplicação simula o fluxo real de um pedido: o cliente monta seu pedido escolhendo itens de um cardápio; o proprietário da loja define o desconto a ser aplicado; o sistema calcula o total e acompanha o pedido ao longo do seu ciclo de vida (recebido, em preparo, saiu para entrega e entregue), com a possibilidade de cancelamento dentro de uma janela de tempo durante o preparo.
